@@ -1,2 +1,2 @@
 # first
-first web app
+first web application
